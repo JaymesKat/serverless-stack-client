@@ -1,0 +1,17 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+      "javascript"
+    ],
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.codeAction.showDocumentation": {
+
+      "enable": true
+    },
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+   } 
